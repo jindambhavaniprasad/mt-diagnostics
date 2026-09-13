@@ -2,6 +2,8 @@
 
 A modern, responsive web application for **Mother Teresa Diagnostic Center** (partnered with **Thyrocare**).
 
+[![Deploy to Render](https://render.com/images/deploy-to-render-button.svg)](https://render.com/deploy?repo=https://github.com/jindambhavaniprasad/mt-diagnostics)
+
 ## Tech Stack
 - **Framework**: React 18 + TypeScript + Vite
 - **Styling**: Tailwind CSS
